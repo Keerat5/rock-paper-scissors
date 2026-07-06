@@ -39,4 +39,4 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 - Add sound effects
 - Add difficulty levels
 - Make the UI fully responsive
-- Add animations
+- Add animations 
